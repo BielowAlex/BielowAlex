@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="special_task">
+        <item>If you dont have a task, drink.</item>
+        <item>Youre resting, drinking ginger and bald.</item>
+        <item>Take a group selfie and upload it to Instagram. Everybody drinks.</item>
+        <item>You got the players make you a cocktail on your own and you drink the other option is no. Do! Drink!</item>
+    </string-array>
+
+</resources>

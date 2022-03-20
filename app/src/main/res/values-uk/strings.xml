@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Drink or Do</string>
+    <string name="drink">Drink</string>
+    <string name="drink_drink_drink">Пий пий пий!!</string>
+    <string name="or">OR</string>
+    <string name="splash_screen_title">Ми проти алкоголю, но на вихідні з друзями можна.</string>
+    <string name="Do">Do</string>
+    <string name="Do_do_do">Зроби це!!!</string>
+    <string name="ok">Ok</string>
+    <string name="Start">Старт</string>
+    <string name="drink_rU">Пий</string>
+    <string name="Do_ru">Роби</string>
+    <string name="add">Добав</string>
+    <string name="play">Грати</string>
+    <string name="players">Список гравців:</string>
+    <string name="player">Гравець1</string>
+    <string name="turn">Черга гравця:</string>
+    <string name="press">Нажми на кнопку</string>
+    <string name="enter_name">Введи імя:</string>
+    <string name="remove">Удалити</string>
+    <string name="ready">Готовий</string>
+    <string name="Edit_or_remove">Зміни або удали:</string>
+    <string name="Edit_or_remove_desc">Зміни нік гравця або удали його.</string>
+    <string name="remember">Нагадуємо що грати може мінімум 2 гравця.</string>
+
+
+</resources>

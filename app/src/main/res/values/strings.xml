@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Drink or Do</string>
+    <string name="drink">Drink</string>
+    <string name="drink_drink_drink">Drink drink drink!!</string>
+    <string name="or">OR</string>
+    <string name="splash_screen_title">Were against alcohol, but we can spend the weekend with friends.</string>
+    <string name="ok">OK</string>
+    <string name="Do">Do</string>
+    <string name="Do_do_do">JUST DO IT!!!</string>
+    <string name="Start">Start</string>
+    <string name="add">add</string>
+    <string name="drink_rU">Drink</string>
+    <string name="Do_ru">Do</string>
+    <string name="play">Play</string>
+    <string name="players">List of players:</string>
+    <string name="player">Player1</string>
+    <string name="turn">Turn player:</string>
+    <string name="press">Press the button</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="remove">Remove</string>
+    <string name="ready">Ready</string>
+    <string name="Edit_or_remove">Edit or remove:</string>
+    <string name="Edit_or_remove_desc">Change the players name or delete it .</string>
+    <string name="remember">We remind that at least 2 players can play.</string>
+
+
+</resources>
