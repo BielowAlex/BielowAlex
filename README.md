@@ -1,4 +1,4 @@
-"# BielowAlex" 
+
 
 Hello, i’m Alex!
 I’m a self-taught front-end developer based in Ivano-Frankowsk, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
