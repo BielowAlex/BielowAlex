@@ -24,5 +24,4 @@ Transforming my creativity and knowledge into a websites has been my passion for
 * GULP
 * npm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielowAlex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BielowAlex&theme=solarized_dark)
