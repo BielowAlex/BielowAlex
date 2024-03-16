@@ -14,12 +14,17 @@ A well-motivated developer, with over 3+ years’ experience as full-stack devel
 * Russian - C1
 
 ## Technologies I had experience working with:
-* HTML and CSS
-* Javascript | Typescript
-* React and Redux
-* Express.JS | Nest.JS
-* MySQL | MongoDB
-* SCSS
+• NestJs
+• ReactJs
+• NextJs
+• JavaScript, Typescript
+• Redux, Redux Thunk, RTK Query
+• GraphQl
+• MySQL, PostgreSQL, MongoDB
+• REST API
+• HTML5/CSS3/SASS/SCSS
+• SPA/PWA
+
 * Git
 * GULP
 * npm
