@@ -35,7 +35,7 @@ I enjoy using new technologies in combination with creativity to solve various p
   
 ## Languages:
 * Polish - C1,
-* English - A2,
+* English - B1,
 * Ukrainian - native,
 * Russian - C1
 
